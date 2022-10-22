@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = none
+
+# CS0628: New protected member declared in sealed type
+dotnet_diagnostic.CS0628.severity = none
